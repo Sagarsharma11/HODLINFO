@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(25,29,40);
+}
+.nav-bar{
+    background-color: rgb(25,29,40);
+}
+.nav-bar .h1 {
+    color: rgb(56,173,170);
+}
+
+.nav-bar p .finstreet{
+    color: rgb(56,173,170);
+}
+.inr{
+    background-color: rgb(46,50,65);
+    padding-left: 13px;
+    border-radius: 22%;
+}
+.rounded_number{
+    border-radius: 50%;
+    border: 2px solid rgb(56,173,170);
+    color: white;
+    padding-left: 4px;
+    float: right;
+}
+.telegram_button{
+    background-color:  rgb(56,173,170);
+}
+.form-check-input{
+    height: 30px;
+    width: 60px !important;
+    background-color: rgb(46,50,65) !important;
+    border:none !important;
+    color: red !important;
+}
+.table{
+    border-collapse: separate;
+    border-spacing:0 10px;
+}
+.table-custom{
+    width: 95%;
+    margin-left: 25px;
+}
+
+th {
+    color: rgb(127,129,135);
+    border: none !important;
+}
+tbody tr{
+    background-color: #2E3241;
+    color: white;
+    font-weight: bold;
+    border:1px solid #2E3241 !important;
+    border-radius: 20px !important;
+}
+
+tbody tr td{
+    padding-left: 10px;
+}
